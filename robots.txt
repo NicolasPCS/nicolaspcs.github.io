@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://users.dcc.uchile.cl/~ncaytuir/sitemap.xml
